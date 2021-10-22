@@ -31,13 +31,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>GMC.SSC.VTAss</string>
+				<string>GMC.SSC.NTLLss</string>
 				<key>bundle-version</key>
 				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iHRP.VTA</string>
+				<string>FPT.iHRP</string>
 			</dict>
 		</dict>
 	</array>
